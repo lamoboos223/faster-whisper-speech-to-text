@@ -2,7 +2,7 @@
 name = "speech-to-text"
 version = "1.0.0"
 description = "a speech to text application for voice command"
-authors = ["Lama Alosaimi <lamo.boos@hotmail.com>"]
+authors = ["Lama Alosaimi"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
